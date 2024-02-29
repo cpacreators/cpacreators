@@ -34,3 +34,25 @@ CPAZip is the best way to start making money with CPA Marketing. A collection of
    <a href="https://cpazip.com/aff/cpabuild">  <img src="https://i.imgur.com/jJCxowb.jpeg" alt="CPA Creators" height="250" /></a></p>
   <br/>
   <p>
+
+
+
+
+
+
+
+  <details open> 
+  <summary><h2>📘 Free CPA Landing Pages Templates</h2></summary>
+
+  <p align="left">
+          <a href="https://github.com/cpacreators/cpa-app-listing"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=cpacreators&repo=cpa-app-listing&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="cpa-app-listing"></a>
+    <p><img src="https://i.imgur.com/tBLTOuw.png" height="200" /></p>
+  </p>
+  <p align="left">
+          <a href="https://github.com/cpacreators/cpa-lp-game"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=cpacreators&repo=cpa-lp-game&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="cpa-lp-game"></a>
+    <p><img src="https://i.imgur.com/KFRmIGg.png" height="200" /></p>
+  </p>
+
+
+
+</details>
