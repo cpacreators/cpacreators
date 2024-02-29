@@ -1,16 +1,36 @@
-### Hi there 👋
+<p align="center">
+  <a href="https://github.com/cpacreators">
+    <img src="https://i.imgur.com/lrr4kbM.png" alt="CPA Creators" /></a>
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Free+CPA+Landing+Page+Templates" alt="Typing SVG"> </a>
+</p>
 
-<!--
-**cpacreators/cpacreators** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+CPAZip is the best way to start making money with CPA Marketing. A collection of High Converting CPA Landing page templates and Methods for FREE!
+</p>
 
-Here are some ideas to get you started:
+<i> Need more Templates? 🤗 Check [CPAZip.com](https://cpazip.com/) with 30+ Free Templates!</i>
+</p>
+<a href="https://www.cpazip.com/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=cpacreators&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cpacreators&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
+<p>
+  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat&logo=html5&logoColor=white)&nbsp;
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?&style=flat&logo=css3&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-323330.svg?&style=flat&logo=javascript&logoColor=%23F7DF1E)&nbsp;
+![MySQL](https://img.shields.io/badge/MARIADB-4479A1.svg?&style=flat&logo=mariadb&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</details>
+</p>
+
+<p>
+  <b> &nbsp;Join Us on OGAds:</b></summary></p>
+  <p>
+   <a href="https://members.ogads.com/register?r=89668">  <img src="https://i.imgur.com/b9XZKbc.gif" alt="CPA Creators" /></a></p>
+  <br/>
+<p>
+<b> &nbsp;Join Us on Adblue Media (Ex CPABuild):</b></summary></p>
+   <a href="https://cpazip.com/aff/cpabuild">  <img src="https://i.imgur.com/jJCxowb.jpeg" alt="CPA Creators" height="250" /></a></p>
+  <br/>
+  <p>
