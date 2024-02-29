@@ -55,6 +55,15 @@ CPAZip is the best way to start making money with CPA Marketing. A collection of
           <a href="https://github.com/cpacreators/cpa-lp-game"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=cpacreators&repo=cpa-lp-game&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="cpa-lp-game"></a>
      <p>  
     <a href="https://github.com/cpacreators/cpa-lp-game">  <img src="https://i.imgur.com/KFRmIGg.png" alt="CPA Creators" height="200" /></a>
-  </p> <hr>
+  </p>
+  
+  <hr>
+
+  <p align="left">
+          <a href="https://github.com/cpacreators/cpa-lp-game-1"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=cpacreators&repo=cpa-lp-game-1&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="cpa-lp-game-1"></a>
+     <p>  
+    <a href="https://github.com/cpacreators/cpa-lp-game-1">  <img src="https://i.imgur.com/9p2WSi3.png" alt="CPA Creators" height="200" /></a>
+  </p>
+  
 
 </details>
