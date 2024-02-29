@@ -1,7 +1,7 @@
-<p align="center">
+<p align="left">
   <a href="https://github.com/cpacreators">
     <img src="https://i.imgur.com/lrr4kbM.png" alt="CPA Creators" /></a>
-<p align="center">
+<p align="left">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Free+CPA+Landing+Page+Templates" alt="Typing SVG"> </a>
 </p>
 
