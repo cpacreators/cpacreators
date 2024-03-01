@@ -26,7 +26,7 @@ CPAZip is the best way to start making money with CPA Marketing. A collection of
 <p>
   <b> &nbsp;Join Us on OGAds:</b></summary></p>
   <p>
-   <a href="https://members.ogads.com/register?r=89668">  <img src="https://i.imgur.com/b9XZKbc.gif" alt="CPA Creators" /></a></p>
+   <a href="https://cpazip.com/aff/ogads">  <img src="https://i.imgur.com/b9XZKbc.gif" alt="CPA Creators" /></a></p>
   <br/>
 <p>
 <b> &nbsp;Join Us on Adblue Media (Ex CPABuild):</b></summary></p>
