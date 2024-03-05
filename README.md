@@ -79,5 +79,11 @@ CPAZip is the best way to start making money with CPA Marketing. A collection of
      <p>  
     <a href="https://github.com/cpacreators/cpa-lp-giftcard">  <img src="https://i.imgur.com/HMRUjaH.png" alt="CPA Creators" height="200" /></a>
   </p>
-  
+  <hr>
+
+  <p align="left">
+          <a href="https://github.com/cpacreators/cpa-lp-giftcard-1"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=cpacreators&repo=cpa-lp-giftcard-1&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="cpa-lp-giftcard-1"></a>
+     <p>  
+    <a href="https://github.com/cpacreators/cpa-lp-giftcard-1">  <img src="https://i.imgur.com/NeRaOpj.png" alt="CPA Creators" height="200" /></a>
+  </p>
 </details>
